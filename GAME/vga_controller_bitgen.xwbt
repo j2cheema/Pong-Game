@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=/home/student1/d3krishn/Desktop/GAME/vga_controller.ncd
+OUTFILE=/home/student1/d3krishn/Desktop/GAME/vga_controller.bit
+FAMILY=Spartan3E
+PART=xc3s500e-5fg320
+WORKINGDIR=/home/student1/d3krishn/Desktop/GAME
+LICENSE=ISE
+USER_INFO=174208431_175233744_210613746_725
